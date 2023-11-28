@@ -48,12 +48,12 @@ Jika Anda memiliki pertanyaan atau masukan, silakan hubungi [Azmi Riyadin] di [m
 ## Gambar Hasil Proyek
 
 ### Gambar 1
-![Gambar Hasil Projek](aplikasimusik/gambar 1.jpg "Hasil Projek Aplikasi")
+![Gambar Hasil Projek](aplikasimusik/img/gambar 1.jpg "Hasil Projek Aplikasi")
 
 ### Gambar 2
-![Gambar Hasil Projek](img/gambar 2.jpg "Hasil Proyek Aplikasi Pemutar Musik")
+![Gambar Hasil Projek](aplikasimusik/img/gambar 2.jpg "Hasil Proyek Aplikasi Pemutar Musik")
 
 ### Gambar 3
-![Gambar Hasil Projek](img/gambar 3.jpg "Hasil Proyek Aplikasi Pemutar Musik")
+![Gambar Hasil Projek](aplikasimusik/img/gambar 3.jpg "Hasil Proyek Aplikasi Pemutar Musik")
 
 Terima kasih telah menggunakan aplikasi ini! 🚀
