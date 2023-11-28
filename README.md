@@ -48,7 +48,8 @@ Jika Anda memiliki pertanyaan atau masukan, silakan hubungi [Azmi Riyadin] di [m
 ## Gambar Hasil Proyek
 
 ### Gambar 1
-![Gambar Hasil Projek](aplikasimusik/img/gambar 1.jpg "Hasil Projek Aplikasi")
+<img src="img/gambar 1.jpg" alt="Hasil Proyek Aplikasi Pemutar Musik">
+
 
 ### Gambar 2
 ![Gambar Hasil Projek](aplikasimusik/img/gambar 2.jpg "Hasil Proyek Aplikasi Pemutar Musik")
