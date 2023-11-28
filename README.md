@@ -52,9 +52,9 @@ Jika Anda memiliki pertanyaan atau masukan, silakan hubungi [Azmi Riyadin] di [m
 
 
 ### Gambar 2
-![Gambar Hasil Projek](aplikasimusik/img/gambar 2.jpg "Hasil Proyek Aplikasi Pemutar Musik")
+<img src="img/gambar 2.jpg" alt="Hasil Proyek Aplikasi Pemutar Musik">
 
 ### Gambar 3
-![Gambar Hasil Projek](aplikasimusik/img/gambar 3.jpg "Hasil Proyek Aplikasi Pemutar Musik")
+<img src="img/gambar 3.jpg" alt="Hasil Proyek Aplikasi Pemutar Musik">
 
 Terima kasih telah menggunakan aplikasi ini! 🚀
